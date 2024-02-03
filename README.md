@@ -1,6 +1,6 @@
 - Name:- Suthar Kushalkumar Amitkumar
 - College:- Ahmedabad University
-- Course:- Btech in Computer Science and Engineering
+- Course:- Btech in Computer Science and Engineering (2021-2025)
 
 
 <!---
