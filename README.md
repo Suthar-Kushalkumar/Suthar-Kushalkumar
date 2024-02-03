@@ -1,7 +1,6 @@
 - Name:- Suthar Kushalkumar Amitkumar
-- Roll No.:- AU2140122
-- Course:- CSE205 Data Structures
-- Section:- 1
+- College:- Ahmedabad University
+- Course:- Btech in Computer Science and Engineering
 
 
 <!---
